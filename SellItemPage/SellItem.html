@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> OnlineCarPurchasingAndSelling - Sell Your Car </title>
+    	<link href="../css/styles.css" type="text/css" rel = "stylesheet"/>
+
+		<script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+
+	</head>
+	<body>
+
+			<header>
+
+				<nav>
+				<center>	<ul>
+						<li><a href="../SearchItemPage/SearchItemDAO.php">Search</a></li>
+						<li><a href="../BuyItemPage/BuyItem.html">Purchasing</a></li>
+						<li><a href="../SellItemPage/SellItem.html">Sell Your Car</a></li>
+
+					</ul> </center>
+				</nav>
+			</header>
+
+			<!--<section> !-->
+            <center>
+				<div id="divMessage"></div>
+				<form id="formSellItem" >
+				<br>	<strong id="linkLogout"><a href=""><input type="submit" value="Log Out"></a></strong>
+
+					<br> <br><br>
+
+					<label> Car category: </label>
+					<input type="text" id = "txtItemCategory" name="itemCategory" autocomplete="off" required> <br> <br>
+
+					<label> Car name: </label>
+					<input type="text" id = "txtItemName" name="itemName" autocomplete="off" required> <br> <br>
+
+					<label> Car description: </label>
+					<textarea id = "txtItemDescription" name="itemDescription" form="formSellItem"></textarea> <br> <br>
+
+					<label> Car Price: </label>
+					<input type="price" id = "txtPrice" name="price" autocomplete="off" required> <br> <br>
+
+					<input type="submit" id = "btnAddItem" value="Sell">
+
+
+				</form>  </center>
+			<!--</section> !-->
+
+            <br><br>
+
+			<footer>
+
+			</footer>
+
+			<script src="./SellItem.js"></script>
+
+	</body>
+</html>

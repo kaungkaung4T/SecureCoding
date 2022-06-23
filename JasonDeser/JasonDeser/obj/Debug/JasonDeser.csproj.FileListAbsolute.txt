@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\obj\Debug\JasonDeser.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\obj\Debug\JasonDeser.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\bin\Debug\JasonDeser.exe.config
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\bin\Debug\JasonDeser.exe
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\bin\Debug\JasonDeser.pdb
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\obj\Debug\JasonDeser.csproj.CopyComplete
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\obj\Debug\JasonDeser.exe
+C:\Users\DELL\source\repos\JasonDeser\JasonDeser\obj\Debug\JasonDeser.pdb
